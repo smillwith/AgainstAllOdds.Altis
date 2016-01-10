@@ -1,4 +1,4 @@
-# AgainstAllOdds.Altis
+# Against All Odds
 
 Single Player Scenario for Arma 3
 
